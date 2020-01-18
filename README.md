@@ -1,15 +1,15 @@
-# The CocoaPods Master Repo
+# 火速电竞
 
-This repository contains the public [CocoaPods](https://github.com/CocoaPods/CocoaPods) specifications.
+火速电竞app非常火的电竞游戏辅助手机软件，最新热门电竞战队在这里每日都在更新，并且随时都可以看到最新的战队信息，英雄联盟，王者荣耀，DOTA2以及各种热门游戏竞技问答都在这里更新哦！
 
-## Links
+火速竞技app介绍：
 
-- [Specs and the Specs Repo](http://guides.cocoapods.org/making/specs-and-specs-repo.html): Learn about creating Podspec's and the Spec repo.
-- [Getting setup with Trunk](http://guides.cocoapods.org/making/getting-setup-with-trunk.html): Instructions for creating a CocoaPods user account
+首页：主要介绍的是热门竞技战队信息，里面包含英雄联盟，王者荣耀，DOTA2等战队最新信息，以及热门竞技赛程，包含战队成员，战绩等等，接下去我们还会持续更新哦
 
+赛事问答：主要介绍的是热门竞技赛事情况游戏赛事问答模块
 
-## License
+战队竞技app特色：
 
-These specifications and CocoaPods are available under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
+1、战队信息，玩法，必备的技巧都是需要掌握的，轻松掌握游戏赛程战队信息，厉害的高手在此云集； 3、上分没烦恼，大神视频教学，如何成为一个顶尖的游戏玩家，发起有趣的互动游戏。 联盟竞技app优势：
 
-
+3、可以随时在这里掌握游戏赛事，掌握最新的游戏赛事信息即可。 火速竞技app小编点评： 非常实用的电竞游戏服务助手，超多优质的电竞赛事讯息，以及热门的赛事问答实时更新，让大家第一时间就可以玩转游戏电竞圈！
